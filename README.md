@@ -26,3 +26,5 @@ Edit these sections in the script:
 3. **Tools List** (Line 60+)
 
 "This script was developed with AI assistance."
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
