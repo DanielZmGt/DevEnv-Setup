@@ -1,0 +1,13 @@
+# Ignore log files
+*.log
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore temporary files
+*.tmp
+
+# Always ignore environment files
+.env
+*.env
+credentials.ps1
