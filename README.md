@@ -25,3 +25,4 @@ Edit these sections in the script:
 2. **Directory Structure** (Line 25+)
 3. **Tools List** (Line 60+)
 
+"This script was developed with AI assistance."
